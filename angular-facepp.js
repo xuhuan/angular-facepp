@@ -2,7 +2,7 @@
  *
  * @authors xuhuan (xu.huan.web.master@gmail.com)
  * @date    2014-11-07 10:57:40
- * @version 1.0.2
+ * @version 1.0.3
  * @description face++ javascript sdk for angular
  *
  */
