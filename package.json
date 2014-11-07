@@ -1,0 +1,28 @@
+{
+  "name": "angular-facepp",
+  "version": "1.0.2",
+  "description": "face++ javascript sdk for angular",
+  "main": "facepp-sdk.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/xuhuan/angular-facepp.git"
+  },
+  "keywords": [
+    "face++",
+    "facepp",
+    "angular",
+    "angularjs"
+  ],
+  "author": "xuhuan <xu.huan.web.master@gmail.com>",
+  "license": "BSD",
+  "bugs": {
+    "url": "https://github.com/xuhuan/angular-facepp/issues"
+  },
+  "homepage": "https://github.com/xuhuan/angular-facepp",
+  "dependencies": {
+    "jquery": "~1.9.0"
+  }
+}

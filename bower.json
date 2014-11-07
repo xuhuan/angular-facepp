@@ -1,0 +1,25 @@
+{
+	"name": "angular-facepp",
+	"version": "1.0.2",
+	"authors": [
+		"xuhuan <xu.huan.web.master@gmail.com>"
+	],
+	"description": "face++ javascript sdk for angular",
+	"main": [
+		"facepp-sdk.min.js",
+		"angular-facepp.js"
+	],
+	"keywords": [
+		"face++",
+		"facepp",
+		"angular",
+		"angularjs"
+	],
+	"license": "BSD",
+	"homepage": "https://github.com/xuhuan/angular-facepp",
+	"ignore": [],
+	"dependencies": {
+		"jquery": "~1.9.0",
+		"angular-facepp": "*"
+	}
+}
