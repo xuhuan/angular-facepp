@@ -23,6 +23,6 @@
   },
   "homepage": "https://github.com/xuhuan/angular-facepp",
   "dependencies": {
-    "jquery": "~1.9.0"
+    "jquery": ">=1.9.0"
   }
 }
