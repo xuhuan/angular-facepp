@@ -1,6 +1,6 @@
 {
 	"name": "angular-facepp",
-	"version": "1.0.3",
+	"version": "1.0.4",
 	"authors": [
 		"xuhuan <xu.huan.web.master@gmail.com>"
 	],
@@ -19,7 +19,6 @@
 	"homepage": "https://github.com/xuhuan/angular-facepp",
 	"ignore": [],
 	"dependencies": {
-		"jquery": ">=1.9.0",
-		"angular-facepp": "*"
+		"jquery": ">=1.9.0"
 	}
 }

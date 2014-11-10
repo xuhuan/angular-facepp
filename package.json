@@ -1,6 +1,6 @@
 {
   "name": "angular-facepp",
-  "version": "1.0.3",
+  "version": "1.0.4",
   "description": "face++ javascript sdk for angular",
   "main": "facepp-sdk.js",
   "scripts": {
